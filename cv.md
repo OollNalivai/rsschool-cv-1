@@ -5,7 +5,9 @@
 ###Contacts:
 
 ..* **E-mail**: pyshkatoro@gmail.com
+
 ..* **Telegram**: pyshkatoro
+
 ..* **GitHub**: Philosopheya
 
 ###About me:
@@ -15,8 +17,11 @@
 ###Skills
 
 ..* HTML5
+
 ..* CSS
+
 ..* JavaScript
+
 ..* Git
 
 ###Code example
@@ -41,6 +46,7 @@ function squareDigits(num){
 ###Courses
 
 ..* Yandex.Praktikum
+
 ..* HTML-Academy
 
 ###English
